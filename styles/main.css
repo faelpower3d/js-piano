@@ -3,7 +3,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background-image: url('/main/img/background.png');
+    background-image: url('/js-piano/img/background.png');
     background-size: cover;
     
 }
