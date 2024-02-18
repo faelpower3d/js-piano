@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none; /*quando voce aperta tab não é selecionado*/
+    font-family: "Poppins",sans-serif;    /*colocando pra funcionar as fot importadas do google  */
+}
+
